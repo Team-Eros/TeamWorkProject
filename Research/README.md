@@ -7,9 +7,11 @@ Ideas and research items for the project.
 [Pacman - Doncho](https://www.youtube.com/watch?v=NQYdKC6nK6o) - Academy workshop 2016  
  - [Pacman code](https://telerikacademy.com/Courses/LectureResources/8597/Pacman-Source)  
  - [Pacman preview](https://telerikacademy.com/Courses/LectureResources/8598/Pacman-Preview)  
+ 
 [Jumping Pikachu - Cyki](https://www.youtube.com/watch?v=lQjllghKKxw) - Academy workshop 2016  
  - [Jumping Pikachu code](https://telerikacademy.com/Courses/LectureResources/8611/Jumping-Pikachu-Source)  
  - [Jumping Pikachu preview](https://telerikacademy.com/Courses/LectureResources/8612/Jumping-Pikachu-Preview)  
+ 
 [Jumping balls tutorial - Doncho](https://www.youtube.com/watch?v=u1ZhDhBZQQ4) - Academy canvas & SVG workshop 2015  
 [Balls Acceleration - Doncho](https://www.youtube.com/watch?v=hvLlVuU1hxo) - Academy canvas & SVG workshop 2015  
 [Jumping - Doncho](https://www.youtube.com/watch?v=lnhP6cvrN3c) - Academy workshop  
