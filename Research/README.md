@@ -10,7 +10,7 @@ Ideas and research items for the project.
  - [Pacman code](https://telerikacademy.com/Courses/LectureResources/8597/Pacman-Source)  
  - [Pacman preview](https://telerikacademy.com/Courses/LectureResources/8598/Pacman-Preview)  
  
-[Jumping Pikachu - Cyki](https://www.youtube.com/watch?v=lQjllghKKxw) - Workshop 2016  
+[Jumping Pikachu - Konstantin](https://www.youtube.com/watch?v=lQjllghKKxw) - Workshop 2016  
  - [Jumping Pikachu code](https://telerikacademy.com/Courses/LectureResources/8611/Jumping-Pikachu-Source)  
  - [Jumping Pikachu preview](https://telerikacademy.com/Courses/LectureResources/8612/Jumping-Pikachu-Preview)  
  
