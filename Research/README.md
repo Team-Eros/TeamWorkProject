@@ -39,6 +39,7 @@ Ideas and research items for the project.
  - [Bump - Collision Detection for Pixi](https://github.com/kittykatattack/bump#hit)  
  
 [Phaser JS](https://phaser.io/) - Game development framework  
+[Matter JS](http://brm.io/matter-js/) - 2D physics engine for the web
 
 ## Обсъдени и решени въпроси
 
