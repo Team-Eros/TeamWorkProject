@@ -1,7 +1,15 @@
 # TeamWorkProject
-UI &amp; DOM Teamwork Project
+## Telerik Academy
+### UI &amp; DOM Teamwork Project
 
-Let's start from somewhere, we can rename repo later.
+Tris repo is used for storing research and sample items while developing main project.  
+The project itself is called [**MATRIX RUNNER**](https://github.com/Team-Eros/MatrixRunner) and is located on it's own repository.
+
+Here are some other useful links:  
+- [Project Description](#)
+- [Gameplay Instructions](#)
+- [Game Introduction Video](#)
+- [Development Task List](#)
 
 ## Teamwork members
 
