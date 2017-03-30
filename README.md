@@ -5,11 +5,12 @@
 Tris repo is used for storing research and sample items while developing main project.  
 The project itself is called [**MATRIX RUNNER**](https://github.com/Team-Eros/MatrixRunner) and is located on it's own repository.
 
-Here are some other useful links:  
-- [Project Description](#)
-- [Gameplay Instructions](#)
-- [Game Introduction Video](#)
-- [Development Task List](#)
+**Here are some other useful links:**  
+- [Project Description](https://github.com/Team-Eros/MatrixRunner#introduction)
+- [Gameplay Instructions](https://github.com/Team-Eros/MatrixRunner#game-features)
+- [Game Introduction Video](https://youtu.be/hilbwnZb820)
+- [Development Task List](https://github.com/Team-Eros/MatrixRunner/blob/master/README.md#development-task-list)
+
 
 ## Teamwork members
 
